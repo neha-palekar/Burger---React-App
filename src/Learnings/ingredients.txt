@@ -1,0 +1,4 @@
+ingredients is an object in Burger, 
+we have to access it in BurgerIngredient
+so we cant use map method,
+thats why convert object into array using Object.keys()

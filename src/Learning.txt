@@ -1,0 +1,4 @@
+containers : stateful components
+components : stateless components
+
+build Burger now..
